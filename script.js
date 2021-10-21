@@ -5,7 +5,8 @@ let cartas = [
     atributos: {
       força: 5,
       velocidade: 6,
-      habilidade: 2
+      habilidade: 2,
+      inteligência: 6
     }
   },
   {
@@ -14,7 +15,8 @@ let cartas = [
     atributos: {
       força: 3,
       velocidade: 2,
-      habilidade: 6
+      habilidade: 6,
+      inteligência: 3
     }
   },
   {
@@ -23,7 +25,8 @@ let cartas = [
     atributos: {
       força: 6,
       velocidade: 5,
-      habilidade: 3
+      habilidade: 3,
+      inteligência: 2
     }
   },
   {
@@ -32,7 +35,8 @@ let cartas = [
     atributos: {
       força: 6,
       velocidade: 5,
-      habilidade: 4
+      habilidade: 4,
+      inteligência: 1
     }
   },
   {
@@ -41,7 +45,8 @@ let cartas = [
     atributos: {
       força: 1,
       velocidade: 2,
-      habilidade: 4
+      habilidade: 4,
+      inteligência: 3
     }
   },
   {
@@ -50,7 +55,8 @@ let cartas = [
     atributos: {
       força: 1,
       velocidade: 2,
-      habilidade: 6
+      habilidade: 6,
+      inteligência: 4
     }
   },
   {
@@ -59,7 +65,8 @@ let cartas = [
     atributos: {
       força: 1,
       velocidade: 1,
-      habilidade: 6
+      habilidade: 6,
+      inteligência: 2
     }
   },
   {
@@ -68,7 +75,8 @@ let cartas = [
     atributos: {
       força: 5,
       velocidade: 4,
-      habilidade: 4
+      habilidade: 4,
+      inteligência: 5
     }
   },
   {
@@ -77,7 +85,8 @@ let cartas = [
     atributos: {
       força: 3,
       velocidade: 6,
-      habilidade: 4
+      habilidade: 4,
+      inteligência: 5
     }
   },
   {
@@ -86,7 +95,8 @@ let cartas = [
     atributos: {
       força: 5,
       velocidade: 4,
-      habilidade: 4
+      habilidade: 4,
+      inteligência: 3
     }
   },
   {
@@ -95,7 +105,8 @@ let cartas = [
     atributos: {
       força: 5,
       velocidade: 6,
-      habilidade: 2
+      habilidade: 2,
+      inteligência: 5
     }
   },
   {
@@ -104,7 +115,8 @@ let cartas = [
     atributos: {
       força: 2,
       velocidade: 5,
-      habilidade: 6
+      habilidade: 6,
+      inteligência: 6
     }
   },
   {
@@ -113,7 +125,8 @@ let cartas = [
     atributos: {
       força: 2,
       velocidade: 6,
-      habilidade: 5
+      habilidade: 5,
+      inteligência: 3
     }
   },
   {
@@ -122,7 +135,8 @@ let cartas = [
     atributos: {
       força: 1,
       velocidade: 3,
-      habilidade: 6
+      habilidade: 6,
+      inteligência: 4
     }
   },
   {
@@ -131,7 +145,8 @@ let cartas = [
     atributos: {
       força: 1,
       velocidade: 4,
-      habilidade: 6
+      habilidade: 6,
+      inteligência: 6
     }
   },
   {
@@ -140,7 +155,8 @@ let cartas = [
     atributos: {
       força: 5,
       velocidade: 5,
-      habilidade: 2
+      habilidade: 2,
+      inteligência: 2
     }
   },
   {
@@ -149,7 +165,8 @@ let cartas = [
     atributos: {
       força: 6,
       velocidade: 4,
-      habilidade: 5
+      habilidade: 5,
+      inteligência: 4
     }
   },
   {
@@ -158,7 +175,8 @@ let cartas = [
     atributos: {
       força: 5,
       velocidade: 6,
-      habilidade: 5
+      habilidade: 5,
+      inteligência: 6
     }
   }
 ];
